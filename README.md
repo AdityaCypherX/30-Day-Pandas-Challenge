@@ -45,6 +45,7 @@ This repo is part of my **Data Scientist roadmap**, focusing on:
 
 ## 🔗 Platform
 All problems are from **LeetCode – 30 Days of Pandas**
+- **LeetCode Profile:**[https://leetcode.com/u/2peH1xWAuU/]
 
 ---
 
