@@ -31,7 +31,11 @@ It is part of my learning journey to master **Pandas for Data Analytics and Data
 | 595  | Big Countries                        | Day1/595_Big_Countries.ipynb             |
 | 1757 | Recyclable and Low Fat Products      | Day1/1757_Recyclable_LowFat_Products.ipynb |
 
-*(For future days, add Day2, Day3, … with solved problems)*
+### 📅 Day 2
+| ID  | Title                     | File |
+|-----|---------------------------|------|
+| 183 | Customers Who Never Order | Day_02/183_Customers_Who_Never_Order.py |
+| 1148| Article Views I            | Day_02/1148_Article_Views_I.py |
 
 ---
 
