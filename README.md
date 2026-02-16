@@ -41,30 +41,20 @@ I update this repository daily as part of my Data Science roadmap.
 
 More advanced transformations coming in upcoming days 🚀
 
-🗂 Problem Index
-📅 Day 1
-ID	Title	File
-595	Big Countries	Day_01/595_Big_Countries.ipynb
-1757	Recyclable and Low Fat Products	Day_01/1757_Recyclable_LowFat_Products.ipynb
-📅 Day 2
-ID	Title	File
-183	Customers Who Never Order	Day_02/183_Customers_Who_Never_Order.py
-1148	Article Views I	Day_02/1148_Article_Views_I.py
-📅 Day 3
-ID	Title	File
-1667	Fix Names in a Table	Day_03/1667_fix_names_in_a_table.py
-1683	Invalid Tweets	Day_03/1683_Invalid_Tweets.py
-1873	Calculate Special Bonus	Day_03/1873_Calculate_Special_Bonus.py
-📅 Day 4
-ID	Title	File
-1517	Find Users With Valid E-Mails	Day_04/1517_Find_Users_With_Valid_Emails.py
-📅 Day 5
-ID	Title	File
-1527	Patients With a Condition	Day_05/1527_Patients_With_a_Condition.py
-177	Nth Highest Salary	Day_05/177_Nth_Highest_Salary.py
-📅 Day 6
-ID	Title	File
-176	Second Highest Salary	Day_06/176_Second_Highest_Salary.py
+| S.No | Day   | ID   | Title                                                                                             | Concepts                 | Solution                                                                                                                     |
+| ---- | ----- | ---- | ------------------------------------------------------------------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Day 1 | 595  | [Big Countries](https://leetcode.com/problems/big-countries/)                                     | Filtering                | [View Code](https://github.com/AdityaCypherX/30-Day-Pandas-Challenge/blob/main/Day_01/595_Big_Countries.ipynb)               |
+| 2    | Day 1 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Filtering                | [View Code](https://github.com/AdityaCypherX/30-Day-Pandas-Challenge/blob/main/Day_01/1757_Recyclable_LowFat_Products.ipynb) |
+| 3    | Day 2 | 183  | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)             | Join, Filtering          | [View Code](https://github.com/AdityaCypherX/30-Day-Pandas-Challenge/blob/main/Day_02/183_Customers_Who_Never_Order.py)      |
+| 4    | Day 2 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/)                                 | Filtering                | [View Code](https://github.com/AdityaCypherX/30-Day-Pandas-Challenge/blob/main/Day_02/1148_Article_Views_I.py)               |
+| 5    | Day 3 | 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/)                       | String Operations        | [View Code](https://github.com/AdityaCypherX/30-Day-Pandas-Challenge/blob/main/Day_03/1667_fix_names_in_a_table.py)          |
+| 6    | Day 3 | 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/)                                   | String Length, Filtering | [View Code](https://github.com/AdityaCypherX/30-Day-Pandas-Challenge/blob/main/Day_03/1683_Invalid_Tweets.py)                |
+| 7    | Day 3 | 1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)                 | Conditional Logic        | [View Code](https://github.com/AdityaCypherX/30-Day-Pandas-Challenge/blob/main/Day_03/1873_Calculate_Special_Bonus.py)       |
+| 8    | Day 4 | 1517 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/)     | Regex, String            | [View Code](https://github.com/AdityaCypherX/30-Day-Pandas-Challenge/blob/main/Day_04/1517_Find_Users_With_Valid_Emails.py)  |
+| 9    | Day 5 | 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/)             | String Filtering         | [View Code](https://github.com/AdityaCypherX/30-Day-Pandas-Challenge/blob/main/Day_05/1527_Patients_With_a_Condition.py)     |
+| 10   | Day 5 | 177  | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)                           | Ranking                  | [View Code](https://github.com/AdityaCypherX/30-Day-Pandas-Challenge/blob/main/Day_05/177_Nth_Highest_Salary.py)             |
+| 11   | Day 6 | 176  | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)                     | Sorting, Ranking         | [View Code](https://github.com/AdityaCypherX/30-Day-Pandas-Challenge/blob/main/Day_06/176_Second_Highest_Salary.py)          |
+
 🏗 Project Structure
 30-Day-Pandas-Challenge/
 │
