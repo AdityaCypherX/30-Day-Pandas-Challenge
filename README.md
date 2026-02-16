@@ -1,53 +1,45 @@
 📊 30-Day Pandas Challenge – LeetCode Practice
+<p align="center"> <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-brightgreen?style=for-the-badge&logo=pandas"> <img src="https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode"> <img src="https://img.shields.io/badge/Challenge-30%20Days-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/Progress-6%2F30%20(20%25)-blueviolet?style=for-the-badge"> </p>
+🚀 About This Project
 
+This repository contains my solutions to LeetCode Pandas problems, structured as a disciplined 30-Day Challenge.
 
+The goal is to master Pandas for Data Analytics & Data Science while building a strong, recruiter-ready GitHub portfolio.
 
+This challenge emphasizes:
 
+📌 Clean and readable code
 
+📌 Proper folder structure
 
+📌 Real-world DataFrame manipulation
 
-
-This repository contains my solutions to LeetCode Pandas problems, organized as a structured 30-day challenge.
-
-It is part of my journey to master Pandas for Data Analytics & Data Science and build an industry-ready portfolio.
-
-🚀 Goals
-
-Master Pandas for Data Analytics & Data Science
-
-Build strong DataFrame manipulation skills
-
-Prepare for internships, hackathons, and placements
-
-Maintain a professional, structured GitHub portfolio
+📌 Consistency & discipline
 
 📈 Challenge Progress
-
-Progress: 6 / 30 Days Completed (20%)
-
+✅ 6 / 30 Days Completed
+📊 Completion: 20%
 ██████░░░░░░░░░░░░░░
+
+
+I update this repository daily as part of my Data Science roadmap.
 
 🧠 Skills Covered
 
-DataFrame Creation
+✔ DataFrame Creation
+✔ Column Selection & Filtering
+✔ Sorting & Ranking
+✔ Method Chaining
+✔ Column Modification
+✔ Type Conversion
+✔ String Operations
+✔ Aggregations & GroupBy
+✔ Duplicate Handling
+✔ Missing Data Handling
+✔ Pivot / Melt
+✔ Reshaping Data
 
-Column Selection & Filtering
-
-Sorting & Ranking
-
-Method Chaining
-
-Column Modification & Type Conversion
-
-Pivot / Melt
-
-Reshaping Data
-
-Duplicate & Missing Data Handling
-
-Aggregations & GroupBy
-
-String Operations
+More advanced transformations coming in upcoming days 🚀
 
 🗂 Problem Index
 📅 Day 1
@@ -73,36 +65,74 @@ ID	Title	File
 📅 Day 6
 ID	Title	File
 176	Second Highest Salary	Day_06/176_Second_Highest_Salary.py
+🏗 Project Structure
+30-Day-Pandas-Challenge/
+│
+├── Day_01/
+├── Day_02/
+├── Day_03/
+├── Day_04/
+├── Day_05/
+├── Day_06/
+│
+└── README.md
+
+
+Each folder contains structured and clean solutions for that specific day.
+
 📌 Learning Focus
 
-This repository is part of my Data Scientist roadmap, focusing on:
+This repository is part of my structured Data Scientist Roadmap, focusing on:
 
-Clean, readable, and reproducible code
+Writing optimized Pandas solutions
 
-Structured organization for portfolio projects
+Improving problem-solving speed
 
-Industry-ready file & folder structure
+Practicing SQL-to-Pandas conversion
 
-Consistency in naming conventions
+Building production-style clean code
 
-Writing optimized and scalable Pandas solutions
+Maintaining consistent GitHub commits
+
+🎯 Why This Challenge?
+
+Consistency builds expertise.
+
+Instead of random practice, this structured 30-day system ensures:
+
+Daily exposure to data manipulation
+
+Gradual difficulty progression
+
+Strong portfolio proof of work
 
 🔗 Platform
 
-All problems are from LeetCode – 30 Days of Pandas
+All problems are from:
+
+LeetCode – 30 Days of Pandas
 
 LeetCode Profile:
-https://leetcode.com/u/2peH1xWAuU/
+👉 https://leetcode.com/u/2peH1xWAuU/
 
 👨‍💻 Author
 
 Aditya Jha
-B.Tech CSE | Data Analytics & Data Science
+B.Tech CSE
+Data Analytics & Data Science Enthusiast
 
 GitHub:
-https://github.com/AdityaCypherX
+👉 https://github.com/AdityaCypherX
 
-⭐ 30-Day-Pandas-Challenge
+⭐ Long-Term Vision
 
-Consistency > Motivation
-Building skills daily, one DataFrame at a time 🚀
+By the end of this challenge, this repository will represent:
+
+30 days of consistent coding
+
+Strong Pandas mastery
+
+A polished Data Science portfolio project
+
+🔥 Consistency > Motivation
+One DataFrame at a time.
